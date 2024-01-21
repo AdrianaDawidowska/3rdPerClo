@@ -1,6 +1,6 @@
 .title {
     font-family: 'Libre Barcode 128 Text', cursive;
-    font-size: xx-large;
+    font-size: 450%;
     text-align: center;
 }
 
@@ -47,3 +47,7 @@ nav a:hover {
 
 .photos {text-align: center;}
 
+#about, #services, #contact {
+    font-size: x-large;
+    text-align: center;
+}
