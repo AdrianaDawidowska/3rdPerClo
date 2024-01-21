@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url(https://i.pinimg.com/564x/71/fe/23/71fe239b68117029d2fa4310b1a85fa8.jpg);
+    background-image: url(https://i.pinimg.com/564x/71/fe/23/71fe239b68117029d2fa4310b1a85fa8.jp);
 }
 
 .instagram {
@@ -13,3 +13,37 @@ body {
     font-size: 400%;
     text-align: center;
 }
+
+header {
+    background-color: #000000;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+nav a:hover {
+    color: #ddd;
+}
+
+.photos {text-align: center;}
+
