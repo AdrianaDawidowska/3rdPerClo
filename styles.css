@@ -84,3 +84,7 @@ font-family:'Libre Barcode 128 Text' ; }
 
 .third {font-size: 200%;
     font-family:'Libre Barcode 128 Text' ; }    
+
+    .box {
+        padding-bottom: 10pc;
+    }
