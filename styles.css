@@ -1,3 +1,8 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+
 .title {
     font-family: 'Libre Barcode 128 Text', cursive;
     font-size: 450%;
@@ -51,3 +56,31 @@ nav a:hover {
     font-size: x-large;
     text-align: center;
 }
+
+#about {
+    border: 2px solid #000000; 
+  padding: 10px; 
+  border-radius: 10px;
+}
+
+#services {
+    border: 2px solid #000000; 
+  padding: 10px; 
+  border-radius: 10px;
+}
+
+
+#contact {
+    border: 2px solid #000000; 
+  padding: 10px; 
+  border-radius: 10px;
+}
+
+.first {font-size: 200%;
+font-family:'Libre Barcode 128 Text' ; }
+
+.second {font-size: 200%;
+    font-family:'Libre Barcode 128 Text' ; }
+
+.third {font-size: 200%;
+    font-family:'Libre Barcode 128 Text' ; }    
