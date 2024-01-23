@@ -77,14 +77,24 @@ nav a:hover {
 }
 
 .first {font-size: 200%;
-font-family:'Libre Barcode 128 Text' ; }
+font-family:'Rubik Burned' ; }
 
 .second {font-size: 200%;
-    font-family:'Libre Barcode 128 Text' ; }
+    font-family:'Rubik Burned' ; }
 
 .third {font-size: 200%;
-    font-family:'Libre Barcode 128 Text' ; }    
+    font-family:'Rubik Burned' ; }    
 
     .box {
         padding-bottom: 10pc;
     }
+
+
+    .menu {
+        font-family:"Rubik Burned";
+    }
+
+    .font {
+        font-family: "Manrope";
+    }
+
